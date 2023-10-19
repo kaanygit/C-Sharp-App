@@ -1,0 +1,14 @@
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\bin\Debug\net7.0\number-guess-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\bin\Debug\net7.0\number-guess-app.deps.json
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\bin\Debug\net7.0\number-guess-app.runtimeconfig.json
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\bin\Debug\net7.0\number-guess-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\bin\Debug\net7.0\number-guess-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.AssemblyInfoInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.AssemblyInfo.cs
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.csproj.CoreCompileInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\refint\number-guess-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\number-guess-app.genruntimeconfig.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\number-guess-app\obj\Debug\net7.0\ref\number-guess-app.dll

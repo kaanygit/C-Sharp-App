@@ -1,0 +1,16 @@
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\bin\Debug\net6.0-windows\note-taking-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\bin\Debug\net6.0-windows\note-taking-app.deps.json
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\bin\Debug\net6.0-windows\note-taking-app.runtimeconfig.json
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\bin\Debug\net6.0-windows\note-taking-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\bin\Debug\net6.0-windows\note-taking-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note_taking_app.Form1.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.csproj.GenerateResource.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.AssemblyInfoInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.AssemblyInfo.cs
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.csproj.CoreCompileInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\refint\note-taking-app.dll
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\note-taking-app.genruntimeconfig.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\note-taking-app\obj\Debug\net6.0-windows\ref\note-taking-app.dll

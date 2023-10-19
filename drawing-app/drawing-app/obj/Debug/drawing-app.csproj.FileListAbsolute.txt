@@ -1,0 +1,10 @@
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\bin\Debug\drawing-app.exe.config
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\bin\Debug\drawing-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\bin\Debug\drawing-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing-app.csproj.AssemblyReference.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing_app.Form1.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing_app.Properties.Resources.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing-app.csproj.GenerateResource.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing-app.csproj.CoreCompileInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\drawing-app\drawing-app\obj\Debug\drawing-app.pdb
