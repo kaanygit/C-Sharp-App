@@ -1,0 +1,10 @@
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\bin\Debug\flapp-bird-game.exe.config
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\bin\Debug\flapp-bird-game.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\bin\Debug\flapp-bird-game.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp-bird-game.csproj.AssemblyReference.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp_bird_game.Form1.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp_bird_game.Properties.Resources.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp-bird-game.csproj.GenerateResource.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp-bird-game.csproj.CoreCompileInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp-bird-game.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\flapp-bird-game\flapp-bird-game\obj\Debug\flapp-bird-game.pdb

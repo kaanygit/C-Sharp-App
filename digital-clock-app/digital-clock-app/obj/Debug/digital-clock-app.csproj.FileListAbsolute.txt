@@ -1,0 +1,10 @@
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\bin\Debug\digital-clock-app.exe.config
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\bin\Debug\digital-clock-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\bin\Debug\digital-clock-app.pdb
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital-clock-app.csproj.AssemblyReference.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital_clock_app.DigitalClock.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital_clock_app.Properties.Resources.resources
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital-clock-app.csproj.GenerateResource.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital-clock-app.csproj.CoreCompileInputs.cache
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital-clock-app.exe
+D:\Codes\C-Sharp-programming\C-Sharp-App\digital-clock-app\digital-clock-app\obj\Debug\digital-clock-app.pdb
